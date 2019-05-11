@@ -1,3 +1,6 @@
+//Author: Peng-Yu chen 
+//Date: Unknown
+
 #include<iostream>
 #include<iomanip>
 #define n 7
